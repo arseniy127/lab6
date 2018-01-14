@@ -1,0 +1,5 @@
+/Users/zorin/Projects/lab6/lab6/bin/Debug/lab6.exe
+/Users/zorin/Projects/lab6/lab6/bin/Debug/lab6.pdb
+/Users/zorin/Projects/lab6/lab6/obj/x86/Debug/lab6.csproj.CoreCompileInputs.cache
+/Users/zorin/Projects/lab6/lab6/obj/x86/Debug/lab6.exe
+/Users/zorin/Projects/lab6/lab6/obj/x86/Debug/lab6.pdb
